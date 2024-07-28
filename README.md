@@ -81,10 +81,12 @@ This project aims to perform sentiment analysis and topic modeling on the Kickst
 - **xgboost**: For gradient boosting tree models, widely used for structured/tabular data.
 
 ## Acknowledgements
-This project was inspired by and benefited from the following GitHub repositories:
+This project was inspired by and benefited from the following GitHub repositories and online resources:
 
 - [MilaNLProc/contextualized-topic-models](https://github.com/MilaNLProc/contextualized-topic-models)
 - [j-hartmann/siebert](https://github.com/j-hartmann/siebert)
+- [Logistic Regression Example in Python](https://www.justintodata.com/logistic-regression-example-in-python/)
 
-We would like to thank the authors of these projects for their valuable contributions to the open-source community.
+We would like to thank the authors of these projects and resources for their valuable contributions to the open-source community.
+
 
