@@ -79,3 +79,12 @@ This project aims to perform sentiment analysis and topic modeling on the Kickst
 - **seaborn**: For advanced data visualization based on matplotlib, providing a high-level interface for drawing attractive and informative statistical graphics.
 - **torch**: For training and inference of deep learning models, part of the PyTorch library.
 - **xgboost**: For gradient boosting tree models, widely used for structured/tabular data.
+
+## Acknowledgements
+This project was inspired by and benefited from the following GitHub repositories:
+
+- [MilaNLProc/contextualized-topic-models](https://github.com/MilaNLProc/contextualized-topic-models)
+- [j-hartmann/siebert](https://github.com/j-hartmann/siebert)
+
+We would like to thank the authors of these projects for their valuable contributions to the open-source community.
+
