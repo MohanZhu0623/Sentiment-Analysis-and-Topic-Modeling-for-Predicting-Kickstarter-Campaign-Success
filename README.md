@@ -56,7 +56,7 @@ This project aims to perform sentiment analysis and topic modeling on the Kickst
     - Description: Applying the best-performing ternary sentiment classification model, RoBERTa, to the entire 20,000-row dataset (divided into four subsets) and performing exploratory analysis on project success rates and sentiment distribution.
 
 13. **Predictive_Model.ipynb**
-    - Description: Training predictive models using different machine learning models, comparing accuracy and other metrics, and analyzing the importance of different variables (including sentiment variables extracted from the text) in predicting project success.
+    - Description: Training predictive models using different machine learning models, comparing accuracy and other metrics, and analyzing the impact of different variables (including sentiment variables extracted from the text) in predicting project success.
    
 ## Dependencies
 - **pandas**: For data manipulation and analysis.
@@ -74,6 +74,8 @@ This project aims to perform sentiment analysis and topic modeling on the Kickst
 - **seaborn**: For advanced data visualization based on matplotlib, providing a high-level interface for drawing attractive and informative statistical graphics.
 - **torch**: For training and inference of deep learning models, part of the PyTorch library.
 - **xgboost**: For gradient boosting tree models, widely used for structured/tabular data.
+- **shap**: For interpreting the output of machine learning models, providing a unified measure of feature importance for any model.
+ 
 
 ## Acknowledgements
 This project was inspired by and benefited from the following GitHub repositories and online resources:
