@@ -62,19 +62,20 @@ This project aims to perform sentiment analysis and topic modeling on the Kickst
 1. Clone this repository to your local machine:
    ```sh
    git clone https://github.com/your-username/your-repository.git
+   
 ## Dependencies
-pandas: For data manipulation and analysis.
-numpy: For scientific computing and array operations.
-scikit-learn: For training and evaluating machine learning models.
-statsmodels: For statistical modeling and econometrics analysis.
-datasets: For handling and managing large datasets.
-nltk: For natural language processing, including tokenization and stopwords handling.
-gensim: For topic modeling and word vector representation.
-contextualized_topic_models: For context-aware topic modeling.
-transformers: For handling and using pre-trained deep learning models, especially for sentiment analysis.
-afinn: For dictionary-based sentiment analysis.
-vaderSentiment: For VADER sentiment analysis.
-matplotlib: For data visualization.
-seaborn: For advanced data visualization.
-torch: For training and inference of deep learning models.
-xgboost: For gradient boosting tree models.
+- **pandas**: For data manipulation and analysis.
+- **numpy**: For scientific computing and array operations.
+- **scikit-learn**: For training and evaluating machine learning models, including preprocessing, model selection, and metrics.
+- **statsmodels**: For statistical modeling and econometrics analysis.
+- **datasets**: For handling and managing large datasets, particularly useful in conjunction with Hugging Face's `transformers`.
+- **nltk**: For natural language processing tasks such as tokenization, stopwords removal, and more.
+- **gensim**: For topic modeling and word vector representation.
+- **contextualized_topic_models**: For context-aware topic modeling that combines contextual embeddings with traditional topic models.
+- **transformers**: For handling and using pre-trained deep learning models from Hugging Face, especially for tasks like sentiment analysis.
+- **afinn**: For dictionary-based sentiment analysis, providing a simple way to analyze text sentiment.
+- **vaderSentiment**: For VADER sentiment analysis, which is particularly good for social media texts.
+- **matplotlib**: For data visualization, creating static, animated, and interactive visualizations.
+- **seaborn**: For advanced data visualization based on matplotlib, providing a high-level interface for drawing attractive and informative statistical graphics.
+- **torch**: For training and inference of deep learning models, part of the PyTorch library.
+- **xgboost**: For gradient boosting tree models, widely used for structured/tabular data.
