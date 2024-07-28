@@ -62,3 +62,19 @@ This project aims to perform sentiment analysis and topic modeling on the Kickst
 1. Clone this repository to your local machine:
    ```sh
    git clone https://github.com/your-username/your-repository.git
+## Dependencies
+pandas: For data manipulation and analysis.
+numpy: For scientific computing and array operations.
+scikit-learn: For training and evaluating machine learning models.
+statsmodels: For statistical modeling and econometrics analysis.
+datasets: For handling and managing large datasets.
+nltk: For natural language processing, including tokenization and stopwords handling.
+gensim: For topic modeling and word vector representation.
+contextualized_topic_models: For context-aware topic modeling.
+transformers: For handling and using pre-trained deep learning models, especially for sentiment analysis.
+afinn: For dictionary-based sentiment analysis.
+vaderSentiment: For VADER sentiment analysis.
+matplotlib: For data visualization.
+seaborn: For advanced data visualization.
+torch: For training and inference of deep learning models.
+xgboost: For gradient boosting tree models.
