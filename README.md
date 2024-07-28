@@ -57,11 +57,6 @@ This project aims to perform sentiment analysis and topic modeling on the Kickst
 
 13. **Predictive_Model.ipynb**
     - Description: Training predictive models using different machine learning models, comparing accuracy and other metrics, and analyzing the importance of different variables (including sentiment variables extracted from the text) in predicting project success.
-
-## How to Run the Code
-1. Clone this repository to your local machine:
-   ```sh
-   git clone https://github.com/your-username/your-repository.git
    
 ## Dependencies
 - **pandas**: For data manipulation and analysis.
